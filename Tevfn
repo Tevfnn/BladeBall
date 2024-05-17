@@ -158,7 +158,7 @@ function nurysium: init(name: string, is_draggable: boolean, parent)
     logo.Position = UDim2.new(0.710735202, 0, 0.664615393, 0)
     logo.Size = UDim2.new(0, 100, 0, 100)
     logo.ZIndex = 2
-    logo.Image = "rbxassetid://16787593908"
+    logo.Image = "rbxassetid://17441779136"
 
     UIGradient_3.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.51, 1.00), NumberSequenceKeypoint.new(1.00, 1.00)}
     UIGradient_3.Parent = logo
