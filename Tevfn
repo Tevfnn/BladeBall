@@ -434,7 +434,7 @@ function nurysium: create_section(name: string, imageID: number)
 
                     local click_sound = Instance.new("Sound", game:GetService("SoundService"))
 
-                    click_sound.SoundId = "rbxassetid://6895079853"
+                    click_sound.SoundId = "rbxassetid://8816939097"
                     click_sound:Play()
 
                     animate_elements(1.65)
@@ -461,7 +461,7 @@ function nurysium: create_section(name: string, imageID: number)
 
                     local click_sound = Instance.new("Sound", game:GetService("SoundService"))
 
-                    click_sound.SoundId = "rbxassetid://6895079853"
+                    click_sound.SoundId = "rbxassetid://8816939097"
                     click_sound:Play()
 
                     animate_elements(1.65)
